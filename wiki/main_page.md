@@ -2,7 +2,8 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+# 欢迎来到 Pixal Online Judge 支持
+你可以在这里找到你问题的答案。
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
+如果我们的支持不够完善，你可以发起一个新的[Issue](https://github.com/PixalOJ/support/issues/new?assignees=&labels=&template=----.md&title=【建议】)
 
